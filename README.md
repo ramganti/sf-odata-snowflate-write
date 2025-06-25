@@ -1,4 +1,4 @@
-# Salesforce to Snowflake Integration via a Python OData Middleware
+# Update a Snowflake record from Salesforce using a Python-based OData middleware connected through an External Data Source
 
 This repository contains a Proof of Concept (POC) demonstrating how to view and update data in a Snowflake database directly from the Salesforce user interface in real-time. This is achieved using Salesforce Connect and a lightweight Python web service that acts as an OData middleware.
 
