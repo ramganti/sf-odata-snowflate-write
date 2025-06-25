@@ -1,14 +1,8 @@
 import snowflake.connector
 
-# Snowflake connection details (replace with your actual values)
-# account = "HAWQPMW-NCB25403"    
-# user = "RAMGANTI2002"
-# password = "DemoRgAccountForTest123"
-# database = "DEMODB"
-
 user='RG06052025'
-password='DemoRgAccountForTest123'
-account='EMWLIJW-YM14503'
+password='*****' # update password
+account='XXXXX-XXXXX'
 # warehouse='COMPUTE_WH'
 # schema='PUBLIC'
 database='DEMODB'
