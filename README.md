@@ -3,8 +3,6 @@
 This repository contains a Proof of Concept (POC) demonstrating how to view and update data in a Snowflake database directly from the Salesforce user interface in real-time. This is achieved using Salesforce Connect and a lightweight Python web service that acts as an OData middleware.
 
 <img width="991" alt="image" src="https://github.com/user-attachments/assets/20dba72f-4140-4873-b872-12e5ce31640e" />
-![Uploading image.png…]()
-
 *(A diagram showing Salesforce -> ngrok -> Python/Flask App -> Snowflake)*
 
 ## Architecture
