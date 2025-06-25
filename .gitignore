@@ -1,0 +1,18 @@
+# Environment variables
+# Never commit this file!
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# macOS files
+.DS_Store
+
+# IDE / Editor specific files
+.vscode/
+.idea/
